@@ -1,0 +1,11 @@
+<div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-window cc-banner cc-type-info cc-theme-block cc-bottom cc-color-override-1554580506 " style="">
+    <!--googleoff: all-->
+    <span id="cookieconsent:desc" class="cc-message">
+        Our website uses cookies to make your browsing experience better. By using our site you agree to our use of cookies. 
+        <a aria-label="learn more about cookies" role="button" tabindex="0" class="cc-link" href="https://devpractical.com/privacy-policy" target="_blank">
+            Learn more here.
+        </a>
+    </span>
+    <div class="cc-compliance"><a aria-label="dismiss cookie message" role="button" tabindex="0" class="cc-btn cc-dismiss">Got it!</a></div>
+    <!--googleon: all-->
+</div>
